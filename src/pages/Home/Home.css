@@ -1,0 +1,12 @@
+.banner {
+    background: url(../../images/bannerbackground.png) no-repeat center center fixed;
+    padding: 400px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.banner-text {
+    font-size: 4rem;
+}
